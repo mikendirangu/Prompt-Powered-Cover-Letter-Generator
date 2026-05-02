@@ -1,0 +1,13 @@
+
+Dear Hiring Manager at Andela,
+
+My name is mike, and I am excited to apply for the Frontend Developer position at your company.
+
+With skills in React, Tailwind, APIs, I have developed strong technical abilities that align well with your team's needs. I am passionate about building efficient and user-focused solutions, and I am eager to contribute to your organization.
+
+I admire Andela's commitment to innovation and excellence, and I would welcome the opportunity to bring my skills and enthusiasm to your team.
+
+Thank you for considering my application. I look forward to the possibility of contributing to your success.
+
+Sincerely,  
+mike
