@@ -64,7 +64,7 @@ Enter company: Andela
 Enter skills: React, Tailwind, APIs  
 Output:
 
-A professional AI-generated cover letter is displayed and saved as:
+## A professional AI-generated cover letter is displayed and saved as:
 
 cover_letter.txt
 🧠 How It Works
@@ -79,18 +79,18 @@ Common Issues:
 pip install google-genai
 ❌ Invalid model error
 
-Use:
+#Use:
 
 model="gemini-2.0-flash"
 ❌ API quota exceeded
 Enable billing OR
 Wait for quota reset OR
-App uses fallback generator automatically
-🔁 Fallback System
+App uses a fallback generator automatically
+# 🔁 Fallback System
 
 If the AI API fails, the system generates a pre-built professional cover letter template to ensure the app still works.
 
-📁 Project Structure
+# 📁 Project Structure
 cover-letter-generator/
 │── main.py
 │── .env
